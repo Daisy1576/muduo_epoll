@@ -1,6 +1,24 @@
 [
 {
   "directory": "/home/ckh/Mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS  -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Acceptor.cc.o -c /home/ckh/Mymuduo/Acceptor.cc",
+  "file": "/home/ckh/Mymuduo/Acceptor.cc",
+  "output": "CMakeFiles/mymuduo.dir/Acceptor.cc.o"
+},
+{
+  "directory": "/home/ckh/Mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS  -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Buffer.cc.o -c /home/ckh/Mymuduo/Buffer.cc",
+  "file": "/home/ckh/Mymuduo/Buffer.cc",
+  "output": "CMakeFiles/mymuduo.dir/Buffer.cc.o"
+},
+{
+  "directory": "/home/ckh/Mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS  -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Callbacks.cc.o -c /home/ckh/Mymuduo/Callbacks.cc",
+  "file": "/home/ckh/Mymuduo/Callbacks.cc",
+  "output": "CMakeFiles/mymuduo.dir/Callbacks.cc.o"
+},
+{
+  "directory": "/home/ckh/Mymuduo/build",
   "command": "/usr/bin/g++ -Dmymuduo_EXPORTS  -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Channel.cc.o -c /home/ckh/Mymuduo/Channel.cc",
   "file": "/home/ckh/Mymuduo/Channel.cc",
   "output": "CMakeFiles/mymuduo.dir/Channel.cc.o"
@@ -31,6 +49,18 @@
 },
 {
   "directory": "/home/ckh/Mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS  -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/EventLoopThread.cc.o -c /home/ckh/Mymuduo/EventLoopThread.cc",
+  "file": "/home/ckh/Mymuduo/EventLoopThread.cc",
+  "output": "CMakeFiles/mymuduo.dir/EventLoopThread.cc.o"
+},
+{
+  "directory": "/home/ckh/Mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS  -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/EventLoopThreadPool.cc.o -c /home/ckh/Mymuduo/EventLoopThreadPool.cc",
+  "file": "/home/ckh/Mymuduo/EventLoopThreadPool.cc",
+  "output": "CMakeFiles/mymuduo.dir/EventLoopThreadPool.cc.o"
+},
+{
+  "directory": "/home/ckh/Mymuduo/build",
   "command": "/usr/bin/g++ -Dmymuduo_EXPORTS  -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/InetAddress.cc.o -c /home/ckh/Mymuduo/InetAddress.cc",
   "file": "/home/ckh/Mymuduo/InetAddress.cc",
   "output": "CMakeFiles/mymuduo.dir/InetAddress.cc.o"
@@ -49,9 +79,27 @@
 },
 {
   "directory": "/home/ckh/Mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS  -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Socket.cc.o -c /home/ckh/Mymuduo/Socket.cc",
+  "file": "/home/ckh/Mymuduo/Socket.cc",
+  "output": "CMakeFiles/mymuduo.dir/Socket.cc.o"
+},
+{
+  "directory": "/home/ckh/Mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS  -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/TcpConnection.cc.o -c /home/ckh/Mymuduo/TcpConnection.cc",
+  "file": "/home/ckh/Mymuduo/TcpConnection.cc",
+  "output": "CMakeFiles/mymuduo.dir/TcpConnection.cc.o"
+},
+{
+  "directory": "/home/ckh/Mymuduo/build",
   "command": "/usr/bin/g++ -Dmymuduo_EXPORTS  -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/TcpServer.cc.o -c /home/ckh/Mymuduo/TcpServer.cc",
   "file": "/home/ckh/Mymuduo/TcpServer.cc",
   "output": "CMakeFiles/mymuduo.dir/TcpServer.cc.o"
+},
+{
+  "directory": "/home/ckh/Mymuduo/build",
+  "command": "/usr/bin/g++ -Dmymuduo_EXPORTS  -g -std=c++11 -g -fPIC -o CMakeFiles/mymuduo.dir/Thread.cc.o -c /home/ckh/Mymuduo/Thread.cc",
+  "file": "/home/ckh/Mymuduo/Thread.cc",
+  "output": "CMakeFiles/mymuduo.dir/Thread.cc.o"
 },
 {
   "directory": "/home/ckh/Mymuduo/build",

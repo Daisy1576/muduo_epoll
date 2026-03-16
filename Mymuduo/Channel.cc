@@ -36,14 +36,14 @@ Channel::~Channel()
   {
     //通过cahnnel所属的eventloop，调用poller的相应方法，注册fd的events事件
     //add code
-    //loop_->updateChannel(this);
+    loop_->updateChannel(this);
   }
 
   //在channel所属的eventloop中，把当前的channel删除
  void Channel::remove()
  {
     //add code 
-    //loop_->removeChannel(this);
+    loop_->removeChannel(this);
  }
 
 //fd得到poller通知以后，处理事件

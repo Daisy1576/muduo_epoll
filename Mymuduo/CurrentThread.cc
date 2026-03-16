@@ -11,7 +11,7 @@ namespace CurrentThread
         if(t_cachedTid == 0)
         {
             //通过linux获取当前线程tid值
-            t_cachedTid = static_cast<pid_t>(::syscall(SYS_gettid))
+            t_cachedTid = static_cast<pid_t>(::syscall(SYS_gettid));
         }
     }
 }
